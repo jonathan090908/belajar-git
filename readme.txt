@@ -1,3 +1,2 @@
-Nama: Jonathan Pratama Setiawan
-NIM: 71261244
-No HP: 09999228
+Alamat: Jl. Kha Dahlan No 67
+Hobi: Badminton
